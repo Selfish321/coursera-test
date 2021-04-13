@@ -1,0 +1,39 @@
+body{
+  color: black;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 100%;
+}
+#titulo{
+  float: left;
+}
+#encabezado {
+  background:brown;
+  border: 0;
+  border-radius: 0;
+}
+#cabeza {
+  text-align: center;
+  font-size: 50px;
+}
+#cuerpo {
+  text-align: justify;
+  font-size: 20px;
+  background-color: rgb(255, 64, 64);
+}
+#boton {
+  margin-top: 20px;
+  border: 1px solid black;
+}
+#mini{
+  border: 1px solid black;
+}
+li {
+  text-align: center;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  font-size: 250%;
+}
+#ultimo {
+  border-bottom: 1px solid black;
+}
